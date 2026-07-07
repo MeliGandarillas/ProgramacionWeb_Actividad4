@@ -56,7 +56,7 @@ La plantilla también usa Alpine.js, una librería ligera para añadir interacti
 
 11. Actualicé la sección de contacto con mis propios datos, y el pie de página conservando el crédito a Laurent Begey y ThemeWagon como autores originales de la plantilla, tal como lo requiere su licencia.
 
-##Capturas de pantalla
+## Capturas de pantalla
 
 Sección de proyectos propios
 
