@@ -55,3 +55,17 @@ La plantilla también usa Alpine.js, una librería ligera para añadir interacti
 10. Reemplacé la sección de blog por una de **Reconocimientos**, ya que le vi mas sentido colocar constancias reales en vez de artículos de blog inventados. Aquí incluí un taller de divulgación matemática, una acreditación para una competencia de innovación tecnológica, un curso en línea sobre propiedad intelectual y una certificación de Huawei ICT Academy.
 
 11. Actualicé la sección de contacto con mis propios datos, y el pie de página conservando el crédito a Laurent Begey y ThemeWagon como autores originales de la plantilla, tal como lo requiere su licencia.
+
+##Capturas de pantalla
+
+Sección de proyectos propios
+
+![Sección de proyectos propios](img/cap_proyectos.jpeg)
+
+Sección "about me" con información propia
+
+![Sección "about me" con información propia](img/cap_aboutme.jpeg)
+
+Sección de reconocimientos académicos, de participación en eventos de divulgación cientifica, certificados
+
+![Seccion de reconocimiento](img/cap_reconocimientos.jpeg)
